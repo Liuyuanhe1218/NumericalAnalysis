@@ -1,0 +1,9 @@
+自今日始
+
+macos开发，以下命令初始化编译环境
+···
+	安装llvm
+	brew install llvm
+
+	./refresh_bazel.sh
+···
